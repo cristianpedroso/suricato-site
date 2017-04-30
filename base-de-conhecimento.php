@@ -19,10 +19,10 @@
                     <a href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#needhelp">Como posso me preparar?</a>
+                    <a class="page-scroll" href="#ourknowledge">Como posso me preparar?</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#icanhelp">Quero ajudar!</a>
+                    <a class="page-scroll" href="#knowledge">Quero ajudar!</a>
                 </li>
             </ul>
         </div>
