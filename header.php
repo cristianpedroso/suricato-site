@@ -13,6 +13,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/bootstrap.tagsinput/0.8.0/bootstrap-tagsinput.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -29,8 +30,18 @@
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js" integrity="sha384-0s5Pv64cNZJieYFkXYOTId2HMA2Lfb6q2nAcx2n0RTLUnCAoTTsS0nKEO27XyKcY" crossorigin="anonymous"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js" integrity="sha384-ZoaMbDF+4LeFxg6WdScQ9nnR1QC2MIRxA1O9KWEXQwns1G8UNyIEZIQidzb0T1fo" crossorigin="anonymous"></script>
-    <![endif]-->
 
+    <![endif]-->
+    <script src="js/jquery.js"></script>
+    <script src="js/isotope-main.js"></script>
+    <script src="js/tags.js"></script>
+    <script src="js/modernizer.js"></script>
+    <script src="js/hover-image.js"></script>
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/growl.js"></script>
+    <script src="js/isotope.js"></script>
+    <script src="js/tip.js"></script>
+    <!-- send form -->
 
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">

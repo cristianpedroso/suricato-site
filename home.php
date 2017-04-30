@@ -124,7 +124,7 @@
             <div class="col-lg-7 text-center">
                 <h3>Sem você, a Suricato não faz sentido.</h3>
                 <p>
-                    Utilizamos avançados algoritmos de inteligência artificual e reconhecimento de padrões, baseando-se em médias históricas,
+                    Utilizamos avançados algoritmos de inteligência artificial e reconhecimento de padrões, baseando-se em médias históricas,
                     para prever momentos cuja propensão a inundação é alta; e avisamos aos usuários em situação vulnerável, para que tomem providências.
                 </p>
                 <p>

@@ -1,5 +1,6 @@
 <?php
 
+
 $request = $_SERVER['REQUEST_URI'];
 $requestArray = explode('/',$request);
 $requestArrayCount = count($requestArray);
@@ -12,17 +13,25 @@ for($i=2; $i < $requestArrayCount;$i+=2){
 
 
 // start layout
-include 'header.php';
 
+if($content != 'tips'){
+    include 'header.php';
+}
 switch($content){
+
     case 'base-de-conhecimento':
         include 'base-de-conhecimento.php';
+        break;
+    case 'tips':
+        include 'backend/tips.php';
         break;
     default:
         include 'home.php';
         break;
 }
 
+if($content != 'tips'){
+    include 'footer.php';
+}
 
-include 'footer.php';
 ?>

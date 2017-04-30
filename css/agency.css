@@ -7,12 +7,52 @@ body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+.label-left {
+  float: left;
+}
+.button-right{
+  float: right;
+}
 .text-muted {
   color: #777777;
 }
 .text-primary {
   color: #fed136;
 }
+.list-tips .media-object{
+  height: 100px;
+}
+.media{
+   margin-top: 0px !important;
+    height: 200px;
+}
+
+.tip-card h1{
+  color: #fed136;
+}
+
+.myDiv {
+  position: relative;
+  z-index: 1;
+  background: rgba(0,0,0, 0.5);
+  padding: 0px;
+
+}
+
+
+.myDiv .bg {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url(test.jpg) center center;
+  width: 100%;
+  height: 100%;
+}
+
+
 p {
   font-size: 14px;
   line-height: 1.75;
@@ -63,6 +103,15 @@ h6 {
   text-transform: uppercase;
   font-weight: 700;
 }
+.btn-primary-outline {
+  color: #fed136;
+  background-color: transparent;
+  border-color: #fed136;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
@@ -245,6 +294,35 @@ fieldset[disabled] .btn-xl.active {
   height: 36px;
 
 }
+
+/* filter */
+
+
+.tip-card .media{
+  background: rgba(0,0,0, 0.5);
+}
+
+.tip-card .media:hover {
+  background: rgba(0,0,0, 0.7);
+  transition: all 1s ease;
+}
+.tip-card .media:after {
+  background: rgba(0,0,0, 0.8);
+  transition: all 1s ease;
+}
+
+.tip-card .media-body{
+  padding: 20px;
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+
 header {
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -608,6 +686,24 @@ section#contact .form-control:focus {
   border-color: #fed136;
   box-shadow: none;
 }
+section#knowledge .form-control:focus {
+  border-color: #fed136;
+  box-shadow: none;
+}
+
+section#ourknowledge input{
+  height: 40px;
+}
+section#ourknowledge  .glyphicon-search{
+  padding-top: 3px;
+
+}
+
+section#ourknowledge .form-control:focus {
+  border-color: #fed136;
+  box-shadow: none;
+}
+
 section#contact ::-webkit-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
@@ -815,3 +911,6 @@ body {
     height: 190px !important;
   }
 }
+
+
+
