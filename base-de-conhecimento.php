@@ -58,7 +58,7 @@
                         <hr>
                         <div class="row list-tips grid">
                             <div class="overlay col-md-6 tip-card myDiv transition element-item" data-category="transition">
-                                <div class="bg media img" style="background-image: url(http://www.asmaismais.com.br/uploads/imagens/536b7d410bbdb.jpg)"></div>
+                                <div class="bg media img" style="background-image: url(01.jpg)"></div>
                                 <div class="media">
                                     <div class="media-body">
                                         <h1 class="media-heading">Calçadas de borracha</h1>
@@ -77,7 +77,7 @@
                             </div>
 
                             <div class="col-md-6  myDiv tip-card transition element-item" data-category="transition">
-                                <div class="bg" style="background-image: url(https://petcivilufjf.files.wordpress.com/2015/11/pag44-barragem.jpg)"></div>
+                                <div class="bg" style="background-image: url(02.jpg)"></div>
                                 <div class="media">
                                     <div class="media-body">
                                         <h1 class="media-heading">Barragens</h1>
@@ -97,7 +97,7 @@
                             </div>
 
                             <div class="col-md-6 myDiv tip-card transition element-item" data-category="transition">
-                                <div class="bg" style="background-image: url(http://flores.culturamix.com/blog/wp-content/gallery/dicas-de-mudas-de-arvores-2-1/Dicas-de-Mudas-de-%C3%81rvores-5.jpg)"></div>
+                                <div class="bg" style="background-image: url(03.jpg)"></div>
                                 <div class="media">
                                     <div class="media-body">
                                         <h1 class="media-heading">Plantar Árvores</h1>
@@ -115,7 +115,7 @@
                             </div>
 
                             <div class="col-md-6 myDiv tip-card transition element-item" data-category="transition">
-                                <div class="bg" style="background-image: url(https://i.ytimg.com/vi/zQYe3ngG6qs/maxresdefault.jpg)"></div>
+                                <div class="bg" style="background-image: url(04.jpg)"></div>
                                 <div class="media">
                                     <div class="media-body">
                                         <h1 class="media-heading">Prevencao</h1>
@@ -134,7 +134,7 @@
                             </div>
 
                             <div class="col-md-6 tip-card myDiv transition element-item" data-category="transition">
-                                <div class="bg" style="background-image: url(https://aoquadrado.catracalivre.com.br/wp-content/uploads/sites/4/2016/09/saude.jpg)"></div>
+                                <div class="bg" style="background-image: url(05.jpg)"></div>
                                 <div class="media">
                                     <div class="media-body">
                                         <h1 class="media-heading">Problemas de saúde!</h1>
@@ -153,7 +153,7 @@
                             </div>
 
                             <div class="col-md-6 myDiv tip-card transition element-item" data-category="transition">
-                                <div class="bg" style="background-image: url(http://blog.mundi.com.br/wp-content/uploads/2013/10/Avenida-Pedro-Basso-Cr%C3%A9dito-Adriana-Cardoso.jpg)"></div>
+                                <div class="bg" style="background-image: url(06.jpg)"></div>
                                 <div class="media">
                                     <div class="media-body">
                                         <h1 class="media-heading">Avenida Vegetal</h1>
